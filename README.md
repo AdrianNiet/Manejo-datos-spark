@@ -5,5 +5,5 @@
 Realizandose manipulación de una dataframe de apps de movil, analizandose y luego representando mediante graficas.
 
 Pendiente:
-- Continuar manipulando la DF
+- Repasar las nuevas DF creadas por si se pueden añadir mas datos.
 - Hacer graficas mas variadas.
