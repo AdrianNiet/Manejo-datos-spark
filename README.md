@@ -13,6 +13,7 @@ Realizandose manipulación de una dataframe de apps de movil, analizandose y lue
 - Guardado de los datos en diferentes carpetas con el nombre de categoria.
 - Guardado en una misma carpeta.
 - Creacion de graficas segun los CSV guardados.
+- Analisis de los datos una vez filtrados y visualizados.
 
 ### Pendiente:
-- Terminar las graficas y realizar analisis de los datos representados.
+Revisare en el futuro el trabajo para ver si se puede mejorar.
